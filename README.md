@@ -2,6 +2,7 @@
 
 ###
 
+
 <br clear="both">
 
 <p align="center">Este é o meu espaço para compartilhar projetos, aprendizados e meu amor por tecnologia.<br>Sinta-se à vontade para explorar e conectar!</p>

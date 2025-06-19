@@ -1,4 +1,3 @@
-## Hi there 👋
 <h2 align="center">Hi, me chamo Stefanie.<br>Que bom te ver por aqui!</h2>
 
 ###

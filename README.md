@@ -4,13 +4,13 @@
 
 <br clear="both">
 
-<div style="display: flex; align-items: flex-start; justify-content: center; gap: 20px;">
-  <p style="margin: 0; text-align: left;">
-    Este é o meu espaço para compartilhar projetos, aprendizados e meu amor por tecnologia.
-  </p>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <a href="https://app.rocketseat.com.br/me/stefanie-ernane" target="_blank">
     <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=stefanie-ernane&type=card" width="200" alt="Stefanie Ernane's Rocket ID"/>
   </a>
+  <p style="margin: 0;">
+    Este é o meu espaço para compartilhar projetos, aprendizados e meu amor por tecnologia.
+  </p>
 </div>
 
 ###

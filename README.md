@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<div style="display: flex; justify-content: center; margin-bottom: 10px;">
+<div style="display: flex; justify-content: center">
   <p align="center">
   Este é o meu espaço para compartilhar projetos, aprendizados e meu amor por tecnologia.
   </p>

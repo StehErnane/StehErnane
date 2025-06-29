@@ -4,9 +4,9 @@
 
 <br clear="both">
 
-<div style="display: flex; justify-content: center; margin-bottom: 10px;">
-  <p align="center">
-  Este é o meu espaço para compartilhar projetos, aprendizados e meu amor por tecnologia.
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <p style="text-align: center; max-width: 600px;">
+    Este é o meu espaço para compartilhar projetos, aprendizados e meu amor por tecnologia.
   </p>
   <a href="https://app.rocketseat.com.br/me/stefanie-ernane" target="_blank">
     <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=stefanie-ernane&type=card" width="200" alt="Stefanie Ernane's Rocket ID"/>

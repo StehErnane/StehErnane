@@ -4,8 +4,8 @@
 
 <br clear="both">
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <p style="text-align: center; max-width: 600px;">
+<div style="display: flex; align-items: flex-start; justify-content: center; gap: 20px;">
+  <p style="margin: 0; text-align: left;">
     Este é o meu espaço para compartilhar projetos, aprendizados e meu amor por tecnologia.
   </p>
   <a href="https://app.rocketseat.com.br/me/stefanie-ernane" target="_blank">

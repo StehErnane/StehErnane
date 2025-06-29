@@ -8,7 +8,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <a href="https://www.linkedin.com/in/stefanie-ernane/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="21" height="16" alt="linkedin logo"  />
   </a>

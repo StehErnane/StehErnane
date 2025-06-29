@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="center">Este é o meu espaço para compartilhar projetos, aprendizados e meu amor por tecnologia.<br>Sinta-se à vontade para explorar e conectar!</p>
+<p align="center">Este é o meu espaço para compartilhar projetos, aprendizados e meu amor por tecnologia.<a href="https://app.rocketseat.com.br/me/stefanie-ernane"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=stefanie-ernane&type=card" width="200" alt="Stefanie Ernane's Rocket ID"/></a></p>
 
 ###
 
@@ -21,7 +21,6 @@
   <a href="https://dev.to/stehernane" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="42" height="31" alt="devto logo"  />
   </a>
-  <a href="https://app.rocketseat.com.br/me/stefanie-ernane"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=stefanie-ernane&type=card" width="200" alt="Stefanie Ernane's Rocket ID"/></a>
 </div>
 
 ###

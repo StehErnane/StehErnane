@@ -13,11 +13,6 @@
   </a>
 </div>
 
-
-
-
-<p align="center">Este é o meu espaço para compartilhar projetos, aprendizados e meu amor por tecnologia.</p>
-
 ###
 
 <div align="center">

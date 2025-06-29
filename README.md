@@ -8,9 +8,9 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <a href="https://www.linkedin.com/in/stefanie-ernane/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="21" height="16" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="31" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/users/714513954147401779" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="31" alt="discord logo"  />
@@ -35,7 +35,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <a href="https://app.rocketseat.com.br/me/stefanie-ernane"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=stefanie-ernane&type=card" width="280" alt="Stefanie Ernane's Rocket ID"/></a>
 </div>
 

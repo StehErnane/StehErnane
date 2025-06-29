@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <a href="https://app.rocketseat.com.br/me/stefanie-ernane"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=stefanie-ernane&type=card" width="140" alt="Stefanie Ernane's Rocket ID"/></a>
+  <a href="https://app.rocketseat.com.br/me/stefanie-ernane"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=stefanie-ernane&type=card" width="200" alt="Stefanie Ernane's Rocket ID"/></a>
 </div>
 
 ###

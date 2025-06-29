@@ -35,6 +35,10 @@
 
 ###
 
+<a href="https://app.rocketseat.com.br/me/stefanie-ernane"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=stefanie-ernane&type=card" width="280" alt="Stefanie Ernane's Rocket ID"/></a>
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=stehernane&locale=pt-br&mode=daily&theme=bear&hide_border=true&border_radius=9&date_format=M%20j%5B,%20Y%5D&order=3" height="180" alt="streak graph"  />
 </div>
@@ -69,12 +73,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stehernane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=stehernane&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
